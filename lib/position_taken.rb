@@ -8,3 +8,4 @@ if (board[index] == " " || board[index] == "" || board[index] == nil)
 else
   taken = true  #updating variable to index being true or "full"
 end
+end
